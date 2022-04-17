@@ -1,0 +1,15 @@
+autoworlds:
+  - world
+  - miniere
+
+autosmelting:
+  IRON_ORE: "IRON_INGOT"
+  GOLD_ORE: "GOLD_INGOT"
+
+
+##Fortune level x fortune multiplier (ex. fortune level 2 * 2 = 4 blocks)
+fortunemultiplier: 0.5
+
+
+
+

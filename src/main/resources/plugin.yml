@@ -1,0 +1,8 @@
+name: AutoPickSmelt
+version: '${project.version}'
+main: me.fanta.autosmelt.AutoSmelt
+api-version: 1.16
+description: AutoSmelt
+commands:
+  autosmelt:
+    description: reload the plugin
